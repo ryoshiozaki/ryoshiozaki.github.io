@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "ryoshiozaki.github.io"
+  title: "Ryo SHIOZAKI | 塩崎亮"
   navbar:
     left:
       - href: index.qmd
         text: Home
+  page-footer: "..."
 
 format:
   html:

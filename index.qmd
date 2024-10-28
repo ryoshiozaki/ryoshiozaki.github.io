@@ -1,7 +1,26 @@
 ---
-title: "ryoshiozaki.github.io"
+title: "Ryo SHIOZAKI"
+image: images/profile.png
+about:
+    template: trestles
+    image-width: 10em
+    image-alt: "Ryo Shiozaki"
+    links:
+     - icon: envelope
+       href: r_shiozaki@proton.me
+     - icon: github
+       href: https://github.com
+     - icon: cup-hot-fill
 ---
 
-This is a Quarto website.
+## ABOUT
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+XXXXXXXXX.
+
+## RESEARCH
+
+XXXXXX | XXXXX | YYYY - YYYY
+
+## OTHERS
+
+XXXXXX | XXXXX | YYYY - YYYY

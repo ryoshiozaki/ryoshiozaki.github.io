@@ -1,9 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ryoshiozaki.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Ryo SHIOZAKI",
+    "section": "RESEARCH",
+    "text": "RESEARCH\nXXXXXX | XXXXX | YYYY - YYYY"
+  },
+  {
+    "objectID": "index.html#others",
+    "href": "index.html#others",
+    "title": "Ryo SHIOZAKI",
+    "section": "OTHERS",
+    "text": "OTHERS\nXXXXXX | XXXXX | YYYY - YYYY"
   }
 ]
