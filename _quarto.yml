@@ -8,12 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-  page-footer: "..."
+  page-footer: "2024-"
+  google-analytics: "G-LVQYC7R777"
 
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
 
 
 

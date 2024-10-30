@@ -2,25 +2,49 @@
 title: "Ryo SHIOZAKI"
 image: images/profile.png
 about:
+    id: heading
     template: trestles
     image-width: 10em
     image-alt: "Ryo Shiozaki"
     links:
-     - icon: envelope
-       href: r_shiozaki@proton.me
+     - icon: file-earmark-person
+       href: https://researchmap.jp/r_shiozaki?lang=en     
+     - icon: google
+       href: https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ
      - icon: github
-       href: https://github.com
-     - icon: cup-hot-fill
+       href: https://github.com/ryoshiozaki
 ---
 
-## ABOUT
+:::{#heading}
 
-XXXXXXXXX.
+I am a Professor in the Library and Information Science (LIS) program at Seigakuin University, Japan (2018–present). My research interests include the theories, philosophies, and ethics of LIS, as well as archival aspects of recorded information—focusing on digital preservation, social media archiving, and personal information management.
 
-## RESEARCH
+Before transitioning into academia, I spent 16 years (2002–2018) at the National Diet Library (NDL) of Japan, where I was involved in the planning and development of discovery search and digital archiving systems. I also oversaw a large-scale digitization project. From 2011 to 2013, I was seconded to the National Institute of Informatics (NII), where I led institutional repository initiatives.
 
-XXXXXX | XXXXX | YYYY - YYYY
+:::
 
-## OTHERS
+## Recent Publications
+* Shiozaki, R. (2024), "Passing down local memories: Generativity and photo donations in preservation institutions", *Preservation, Digital Technology and Culture* (accepted to appear)
+* Shiozaki, R. (2024), "Preservation preferences for books and websites as cultural heritage: A conjoint analysis", *Collection Management* (accepted-to appear)
+* Shiozaki, R. (2024), "[Web archiving and chilling effects: A preliminary study](https://doi.org/10.1108/gkmc-12-2023-0477)", *Global Knowledge, Memory and Communication* (online first)
+* Shiozaki, R. (2024), "[People’s perceptions on social media archiving by the national library of Japan](https://doi.org/10.1177/01655515221108692)", *Journal of Information Science*, 50(4), 861-873.
+* Shiozaki, R. (2023), "[Existential dependence relations of documents in the context of preservation](https://doi.org/10.1108/jd-02-2022-0050)", *Journal of Documentation*, 79(2), 341-356.
+* Shiozaki, R. (2022), "[The necessity and priority of preserving cultural documents as a national collection for the public](https://doi.org/10.1080/15332748.2023.2240202)", *Journal of Archival Organization*, 19(1-4), 18-35.
+* Shiozaki, R. (2022), "[A note on law and economics of legal deposit systems](https://doi.org/10.1515/libri-2021-0155)", *Libri*, 72(4), 393-403. 
+* Shiozaki, R. (2022), "[Future uncertainties for preserving tweets: Peoples’ perceptions in Japan](https://doi.org/10.1177/09610006211037392)",*Journal of Librarianship and Information Science*, 54(4), 665-677.
 
-XXXXXX | XXXXX | YYYY - YYYY
+For more details on my other publications, please refer to my profiles on [researchmap](https://researchmap.jp/r_shiozaki?lang=en), [Google Scholar](https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ), and [ORCID](https://orcid.org/0000-0003-1357-150X).
+
+## Ongoing projects
+* Ensuring Long-term Access to Personal Digital Documents in the Infosphere, JSPS KAKENHI Grant (Grants-in-Aid for Scientific Research C) (2022-2025)
+* Research Group on Social Media-Dependent Society Uehiro Foundation on Ethics and Education (2023-2026)
+* Knowledge Organization Research Group, Japan (2024–2026)
+
+## Planned projects
+* Can AI-Generated Content Be Preserved as Cultural Heritage? A Conjoint Analysis of Preservation Preferences
+* Theoretical and Empirical Study on the Preservation of User-Generated Content through the Lens of Intergenerational Justice
+
+## Closed projects
+* Public Perceptions of Social Media Archiving, Telecommunications Advancement Foundation Research Grant (2021-2022)
+* Public Perceptions of Social Media Archiving: Can Tweets Become Social Records?, Seigakuin University General Research Institute Grant (2020-2022)
+* Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences,National Institute of Informatics Open Collaborative Research Grant (2019-2020) 
