@@ -36,8 +36,8 @@ Before transitioning into academia, I spent 16 years (2002–2018) at the Nation
 For more details on my other publications, please refer to my profiles on [researchmap](https://researchmap.jp/r_shiozaki?lang=en), [Google Scholar](https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ), and [ORCID](https://orcid.org/0000-0003-1357-150X).
 
 ## Ongoing projects
-* Ensuring Long-term Access to Personal Digital Documents in the Infosphere, JSPS KAKENHI Grant (Grants-in-Aid for Scientific Research C) (2022-2025)
-* Research Group on Social Media-Dependent Society Uehiro Foundation on Ethics and Education (2023-2026)
+* Ensuring Long-term Access to Personal Digital Documents in the Infosphere (2022–2025) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
+* Research Group on Social Media-Dependent Society(2023-2026) Funded by *Uehiro Foundation on Ethics and Education*
 * Knowledge Organization Research Group, Japan (2024–2026)
 
 ## Planned projects
@@ -45,6 +45,6 @@ For more details on my other publications, please refer to my profiles on [resea
 * Theoretical and Empirical Study on the Preservation of User-Generated Content through the Lens of Intergenerational Justice
 
 ## Closed projects
-* Public Perceptions of Social Media Archiving, Telecommunications Advancement Foundation Research Grant (2021-2022)
-* Public Perceptions of Social Media Archiving: Can Tweets Become Social Records?, Seigakuin University General Research Institute Grant (2020-2022)
-* Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences,National Institute of Informatics Open Collaborative Research Grant (2019-2020) 
+* Public Perceptions of Social Media Archiving (2021-2022) Funded by *Telecommunications Advancement Foundation*
+* Public Perceptions of Social Media Archiving: Can Tweets Become Social Records? (2020-2022) Funded by *Seigakuin University General Research Institute*
+* Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences (2019-2020) Fiunded by *National Institute of Informatics* (Open Collaborative Research Grant)
