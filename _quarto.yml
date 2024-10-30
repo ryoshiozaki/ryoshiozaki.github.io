@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-  page-footer: "2024-"
+  page-footer: "2024"
   google-analytics: "G-LVQYC7R777"
 
 format:
