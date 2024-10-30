@@ -11,8 +11,8 @@ about:
        href: https://researchmap.jp/r_shiozaki?lang=en     
      - icon: google
        href: https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ
-     - icon: github
-       href: https://github.com/ryoshiozaki
+     - icon: envelope
+       href: mailto:r_shiozaki@proton.me
 ---
 
 :::{#heading}
