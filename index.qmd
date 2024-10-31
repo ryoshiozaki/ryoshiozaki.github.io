@@ -7,12 +7,14 @@ about:
     image-width: 10em
     image-alt: "Ryo Shiozaki"
     links:
+     - icon: envelope
+       href: mailto:r_shiozaki@proton.me
      - icon: file-earmark-person
        href: https://researchmap.jp/r_shiozaki?lang=en     
      - icon: google
        href: https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ
-     - icon: envelope
-       href: mailto:r_shiozaki@proton.me
+     - icon: database
+       href: https://osf.io/xf5pj/
 ---
 
 :::{#heading}
