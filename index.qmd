@@ -26,8 +26,10 @@ Before transitioning into academia, I spent 16 years (2002–2018) at the Nation
 :::
 
 ## Recent Publications
-* Shiozaki, R. (2025), "[Intergenerational justice as a framework for social media archiving](https://doi.org/10.1108/jd-10-2024-0255)", *Journal of Documentation* (online first)
-* Shiozaki, R. (2025), "[Passing down local memories: Generativity and photo donations in preservation institutions](https://doi.org/10.1515/pdtc-2024-0051)", *Preservation, Digital Technology and Culture* (online first)
+* Shiozaki, R. (2025), "[AI-generated content and cultural preservation: Toward a research agenda]()", *Proceedings from the Document Academy*, 12(2). (accepted to appear)
+* Shiozaki, R. (2025), "[Ethics of knowledge organization in the algorithmic age: Utilitarian coordination and constraining frameworks](https://doi.org/10.31083/KO44431)", *Knowledge Organization*, 52(6), 44431.
+* Shiozaki, R. (2025), "[Intergenerational justice as a framework for social media archiving](https://doi.org/10.1108/jd-10-2024-0255)", *Journal of Documentation*, 81(3), 598–616.
+* Shiozaki, R. (2025), "[Passing down local memories: Generativity and photo donations in preservation institutions](https://doi.org/10.1515/pdtc-2024-0051)", *Preservation, Digital Technology and Culture*, 54(1), 17–2.
 * Shiozaki, R. (2024), "[Preservation preferences for books and websites as cultural heritage: A conjoint analysis](https://doi.org/10.1080/01462679.2024.2422600)", *Collection Management*, 49(4), 222–240.
 * Shiozaki, R. (2024), "[Web archiving and chilling effects: A preliminary study](https://doi.org/10.1108/gkmc-12-2023-0477)", *Global Knowledge, Memory and Communication* (online first)
 * Shiozaki, R. (2024), "[People’s perceptions on social media archiving by the national library of Japan](https://doi.org/10.1177/01655515221108692)", *Journal of Information Science*, 50(4), 861–873.
@@ -45,10 +47,18 @@ For more details on my other publications, please refer to my profiles on [resea
 
 ## Planned projects
 * Can AI-Generated Content Be Preserved as Cultural Heritage? A Conjoint Analysis of Preservation Preferences
-* Theoretical and Empirical Study on the Preservation of User-Generated Content through the Lens of Intergenerational Justice
 
 ## Closed projects
 * Ensuring Long-term Access to Personal Digital Documents in the Infosphere (2022–2025) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
 * Public Perceptions of Social Media Archiving (2021–2022) Funded by *Telecommunications Advancement Foundation*
 * Public Perceptions of Social Media Archiving: Can Tweets Become Social Records? (2020–2022) Funded by *Seigakuin University General Research Institute*
 * Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences (2019–2020) Fiunded by *National Institute of Informatics* (Open Collaborative Research Grant)
+
+### Translation projects
+* Lund, NW. (2024) *Introduction to Documentation Studies: Complementary Studies of Documentation, Communication and Information*. Facet. / [Japanaese](https://www.maruzen-publishing.co.jp/book/b10144323.html)(2025)
+* Bawden, D. and Robinson, L. (2022) *Introduction to Information Science*. 2nd ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b649795.html)(2024)
+* McCain, E. et al. (2021) *Endangered But Not Too Late: The State of Digital News Preservation*. University of Missouri. / Japanese (in progress)
+* Task Force on Technical Approaches for Email Archives (2018) *The future of email archives : a report from the Task Force onTechnical Approaches for Email Archives*. Council on Library and Information Resources. / [Japanese](https://doi.org/10.15052/00003513)(2019)
+* Redwine, G. et al. (2013) *Born Digital: Guidance for Donors, Dealers, and Archival Repositories*. Council on Library and Information Resources. / [Japanese](https://doi.org/10.15052/00003512)(2019)
+* Bawden, D. and Robinson, L. (2012) *Introduction to Information Science*. 1st ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b470957.html)(2019)
+* Floridi, L. (2010) *Information: A Very Short Introduction*. Oxford University Press. / [Japanaese](https://www.keisoshobo.co.jp/book/b586333.html)(2021)
