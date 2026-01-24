@@ -46,7 +46,8 @@ For more details on my other publications, please refer to my profiles on [resea
 * How is the Reference System of Expertise Formed? (2025-2028) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
 
 ## Planned projects
-* Can AI-Generated Content Be Preserved as Cultural Heritage? A Conjoint Analysis of Preservation Preferences
+* Can AI-Generated Content Qualify as Cultural Heritage? Reconceptualizing Preservation Criteria Through Document Theory
+* Olfactory Documentation and the Question of Public Intervention
 
 ## Closed projects
 * Ensuring Long-term Access to Personal Digital Documents in the Infosphere (2022–2025) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
@@ -55,10 +56,11 @@ For more details on my other publications, please refer to my profiles on [resea
 * Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences (2019–2020) Fiunded by *National Institute of Informatics* (Open Collaborative Research Grant)
 
 ### Translation projects
+* Johns, A. (2023) *The Science of Reading: Information, Media, and Mind in Modern America*. University of Chicago Press. / Japanese (in translation)
 * Lund, NW. (2024) *Introduction to Documentation Studies: Complementary Studies of Documentation, Communication and Information*. Facet. / [Japanaese](https://www.maruzen-publishing.co.jp/book/b10144323.html) (2025)
 * Bawden, D. and Robinson, L. (2022) *Introduction to Information Science*. 2nd ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b649795.html) (2024)
-* McCain, E. et al. (2021) *Endangered But Not Too Late: The State of Digital News Preservation*. University of Missouri. / Japanese (in progress)
+* McCain, E. et al. (2021) *Endangered But Not Too Late: The State of Digital News Preservation*. University of Missouri. / [Japanese](https://serve.repo.nii.ac.jp/records/2000464) (2025)
 * Task Force on Technical Approaches for Email Archives (2018) *The future of email archives : a report from the Task Force onTechnical Approaches for Email Archives*. Council on Library and Information Resources. / [Japanese](https://doi.org/10.15052/00003513) (2019)
 * Redwine, G. et al. (2013) *Born Digital: Guidance for Donors, Dealers, and Archival Repositories*. Council on Library and Information Resources. / [Japanese](https://doi.org/10.15052/00003512) (2019)
-* Bawden, D. and Robinson, L. (2012) *Introduction to Information Science*. 1st ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b470957.html)(2019)
+* Bawden, D. and Robinson, L. (2012) *Introduction to Information Science*. 1st ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b470957.html) (2019)
 * Floridi, L. (2010) *Information: A Very Short Introduction*. Oxford University Press. / [Japanaese](https://www.keisoshobo.co.jp/book/b586333.html) (2021)
