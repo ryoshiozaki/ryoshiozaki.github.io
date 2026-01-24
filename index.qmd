@@ -56,8 +56,8 @@ For more details on my other publications, please refer to my profiles on [resea
 * Clarifying Requirements for Ensuring Long-term Access to Research Data of Humanities and Social Sciences (2019–2020) Fiunded by *National Institute of Informatics* (Open Collaborative Research Grant)
 
 ### Translation projects
-* Johns, A. (2023) *The Science of Reading: Information, Media, and Mind in Modern America*. University of Chicago Press. / Japanese (in translation)
 * Lund, NW. (2024) *Introduction to Documentation Studies: Complementary Studies of Documentation, Communication and Information*. Facet. / [Japanaese](https://www.maruzen-publishing.co.jp/book/b10144323.html) (2025)
+* Johns, A. (2023) *The Science of Reading: Information, Media, and Mind in Modern America*. University of Chicago Press. / Japanese (in translation)
 * Bawden, D. and Robinson, L. (2022) *Introduction to Information Science*. 2nd ed. Facet. / [Japanaese](https://www.keisoshobo.co.jp/book/b649795.html) (2024)
 * McCain, E. et al. (2021) *Endangered But Not Too Late: The State of Digital News Preservation*. University of Missouri. / [Japanese](https://serve.repo.nii.ac.jp/records/2000464) (2025)
 * Task Force on Technical Approaches for Email Archives (2018) *The future of email archives : a report from the Task Force onTechnical Approaches for Email Archives*. Council on Library and Information Resources. / [Japanese](https://doi.org/10.15052/00003513) (2019)
