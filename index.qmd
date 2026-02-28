@@ -26,12 +26,12 @@ Before transitioning into academia, I spent 16 years (2002–2018) at the Nation
 :::
 
 ## Recent Publications
-* Shiozaki, R. (2025), "[AI-generated content and cultural preservation: Toward a research agenda]()", *Proceedings from the Document Academy*, 12(2). (accepted to appear)
+* Shiozaki, R. (2026), "[Web archiving and chilling effects: A preliminary study](https://doi.org/10.1108/gkmc-12-2023-0477)", *Global Knowledge, Memory and Communication*, 75(1–2), 746–762.
+* Shiozaki, R. (2025), "[AI-generated content and cultural preservation: Toward a research agenda](https://doi.org/10.35492/docam/12/2/7)", *Proceedings from the Document Academy*, 12(2), Article 6.
 * Shiozaki, R. (2025), "[Ethics of knowledge organization in the algorithmic age: Utilitarian coordination and constraining frameworks](https://doi.org/10.31083/KO44431)", *Knowledge Organization*, 52(6), 44431.
 * Shiozaki, R. (2025), "[Intergenerational justice as a framework for social media archiving](https://doi.org/10.1108/jd-10-2024-0255)", *Journal of Documentation*, 81(3), 598–616.
 * Shiozaki, R. (2025), "[Passing down local memories: Generativity and photo donations in preservation institutions](https://doi.org/10.1515/pdtc-2024-0051)", *Preservation, Digital Technology and Culture*, 54(1), 17–2.
 * Shiozaki, R. (2024), "[Preservation preferences for books and websites as cultural heritage: A conjoint analysis](https://doi.org/10.1080/01462679.2024.2422600)", *Collection Management*, 49(4), 222–240.
-* Shiozaki, R. (2024), "[Web archiving and chilling effects: A preliminary study](https://doi.org/10.1108/gkmc-12-2023-0477)", *Global Knowledge, Memory and Communication* (online first)
 * Shiozaki, R. (2024), "[People’s perceptions on social media archiving by the national library of Japan](https://doi.org/10.1177/01655515221108692)", *Journal of Information Science*, 50(4), 861–873.
 * Shiozaki, R. (2023), "[Existential dependence relations of documents in the context of preservation](https://doi.org/10.1108/jd-02-2022-0050)", *Journal of Documentation*, 79(2), 341–356.
 * Shiozaki, R. (2022), "[The necessity and priority of preserving cultural documents as a national collection for the public](https://doi.org/10.1080/15332748.2023.2240202)", *Journal of Archival Organization*, 19(1–4), 18–35.
@@ -41,15 +41,15 @@ Before transitioning into academia, I spent 16 years (2002–2018) at the Nation
 For more details on my other publications, please refer to my profiles on [researchmap](https://researchmap.jp/r_shiozaki?lang=en), [Google Scholar](https://scholar.google.co.jp/citations?user=xR8JbTUAAAAJ), and [ORCID](https://orcid.org/0000-0003-1357-150X).
 
 ## Ongoing projects
-* Research Group on Social Media-Dependent Society(2023–2026) Funded by *Uehiro Foundation on Ethics and Education*
-* Knowledge Organization Research Group, Japan (2024–2026)
+* Knowledge Organization Research Group, Japan (2024–)
 * How is the Reference System of Expertise Formed? (2025-2028) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
+* Can AI-Generated Content Become Cultural Heritage? Redesigning Preservation Conditions Based on Document Theory (2026-2030) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
 
 ## Planned projects
-* Can AI-Generated Content Qualify as Cultural Heritage? Reconceptualizing Preservation Criteria Through Document Theory
 * Olfactory Documentation and the Question of Public Intervention
 
 ## Closed projects
+* Research Group on Social Media-Dependent Society(2023–2026) Funded by *Uehiro Foundation on Ethics and Education*
 * Ensuring Long-term Access to Personal Digital Documents in the Infosphere (2022–2025) Funded by *Japan Society for the Promotion of Science* (Grants-in-Aid for Scientific Research C).
 * Public Perceptions of Social Media Archiving (2021–2022) Funded by *Telecommunications Advancement Foundation*
 * Public Perceptions of Social Media Archiving: Can Tweets Become Social Records? (2020–2022) Funded by *Seigakuin University General Research Institute*
