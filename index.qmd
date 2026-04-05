@@ -26,6 +26,7 @@ Before transitioning into academia, I spent 16 years (2002–2018) at the Nation
 :::
 
 ## Recent Publications
+* Shiozaki, R. (2026), "[Economics of knowledge organization: A dual undersupply problem](https://doi.org/10.1108/JD-02-2026-0086)", *Journal of Documentation* (online first).
 * Shiozaki, R. (2026), "[Web archiving and chilling effects: A preliminary study](https://doi.org/10.1108/gkmc-12-2023-0477)", *Global Knowledge, Memory and Communication*, 75(1–2), 746–762.
 * Shiozaki, R. (2025), "[AI-generated content and cultural preservation: Toward a research agenda](https://doi.org/10.35492/docam/12/2/7)", *Proceedings from the Document Academy*, 12(2), Article 6.
 * Shiozaki, R. (2025), "[Ethics of knowledge organization in the algorithmic age: Utilitarian coordination and constraining frameworks](https://doi.org/10.31083/KO44431)", *Knowledge Organization*, 52(6), 44431.
